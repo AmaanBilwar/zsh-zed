@@ -1,0 +1,7 @@
+id = "zsh"
+name = "Zsh Language Extension"
+version = "0.0.1"
+schema_version = 1
+authors = ["Amaan Bilwar <amaan@soarailabs.com>"]
+description = "A short description of what it does."
+repository = "https://github.com/AmaanBilwar/extensions"
