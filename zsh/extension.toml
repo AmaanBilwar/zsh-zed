@@ -1,7 +1,11 @@
 id = "zsh"
-name = "Zsh Language Extension"
+name = "Zsh"
 version = "0.0.1"
 schema_version = 1
 authors = ["Amaan Bilwar <amaan@soarailabs.com>"]
-description = "A short description of what it does."
-repository = "https://github.com/AmaanBilwar/extensions"
+description = "Zsh shell language support for Zed."
+repository = "https://github.com/AmaanBilwar/zsh-zed"
+
+[grammars.zsh]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-zsh"
+commit = "47e2caf4ed7e466f51cfbb13a860a192c300506f"
