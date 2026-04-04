@@ -8,4 +8,4 @@ repository = "https://github.com/AmaanBilwar/zsh-zed"
 
 [grammars.zsh]
 repository = "https://github.com/tree-sitter-grammars/tree-sitter-zsh"
-commit = "47e2caf4ed7e466f51cfbb13a860a192c300506f"
+rev = "47e2caf4ed7e466f51cfbb13a860a192c300506f"
