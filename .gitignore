@@ -1,2 +1,4 @@
 target/
 *.wasm
+config.bat
+node_modules
